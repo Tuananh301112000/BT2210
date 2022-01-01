@@ -1,0 +1,89 @@
+body{
+	padding:0;
+	margin:0;
+}
+.top1 .img{
+	padding-top: 15px;
+	padding-left: 40px;
+	width: 90px;
+}
+.top .top2{
+	width: 100%;
+	height: 20%;
+	background-color:#b3003b;
+}
+.top2 ul{
+	list-style-type: none;
+	display: flex;
+	margin: 0;
+	padding: 0;
+}
+.top2 ul li{
+	padding: 15px;
+	color: white;
+	cursor: pointer;
+	text-transform: uppercase;
+}
+.top2 ul li:hover{
+	background-color:#800000;
+	color: red;
+}
+.top .top3{
+	width: 100%;
+	height: 30%;
+	
+}
+.top3 h2{
+	padding: 15px;
+	height: 0;
+	margin: 0;
+	display: flex;
+}
+.top3 input{
+	margin-top: 40px;
+	margin-right: 258px;
+	width: 180px;
+	height: 25px;
+	display: flex;
+	float: right;
+}
+.button{
+	width: 100%;
+	height: 80%;
+	float: left;
+}
+.button .button-1{
+	padding-left: 15px;
+	width: 70%;
+	height: 100%;
+	float: left;
+}
+
+.button .button-2{
+	width: 20%;
+	height: 100%;
+	float: right;
+
+
+}
+.p1{
+	padding-left: 300px;
+	
+}
+.div1{
+	margin-top: 70px;
+}
+.p{
+	padding-left: 90px;
+	
+}
+
+
+
+
+
+
+
+
+
+
